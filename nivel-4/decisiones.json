@@ -1,0 +1,302 @@
+[
+ {
+  "plato": "P01",
+  "decision": "mantener",
+  "precio_nuevo": 9900.0,
+  "fundamento": "Margen de reposición 0.627 >= 0.6. Contribución histórica ago-oct 6401961 con 1066 unidades; costo de reposición 3697.17. Protegido: plato de la casa."
+ },
+ {
+  "plato": "P02",
+  "decision": "subir",
+  "precio_nuevo": 4100.0,
+  "fundamento": "Margen de reposición 0.594 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.604). Contribución histórica ago-oct 4627222 con 1958 unidades; costo de reposición 1623.33."
+ },
+ {
+  "plato": "P03",
+  "decision": "subir",
+  "precio_nuevo": 5700.0,
+  "fundamento": "Margen de reposición 0.517 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.601). Contribución histórica ago-oct 3660882 con 1489 unidades; costo de reposición 2271.73."
+ },
+ {
+  "plato": "P04",
+  "decision": "mantener",
+  "precio_nuevo": 13000.0,
+  "fundamento": "Margen de reposición 0.689 >= 0.6. Contribución histórica ago-oct 19716900 con 2253 unidades; costo de reposición 4040.88."
+ },
+ {
+  "plato": "P05",
+  "decision": "subir",
+  "precio_nuevo": 7800.0,
+  "fundamento": "Margen de reposición 0.593 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.604). Contribución histórica ago-oct 8168997 con 1779 unidades; costo de reposición 3090.60."
+ },
+ {
+  "plato": "P06",
+  "decision": "mantener",
+  "precio_nuevo": 11900.0,
+  "fundamento": "Margen de reposición 0.616 >= 0.6. Contribución histórica ago-oct 9433700 con 1339 unidades; costo de reposición 4566.06."
+ },
+ {
+  "plato": "P07",
+  "decision": "subir",
+  "precio_nuevo": 15200.0,
+  "fundamento": "Margen de reposición 0.552 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.602). Contribución histórica ago-oct 12005550 con 1410 unidades; costo de reposición 6054.22."
+ },
+ {
+  "plato": "P08",
+  "decision": "subir",
+  "precio_nuevo": 12200.0,
+  "fundamento": "Margen de reposición 0.481 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.600). Contribución histórica ago-oct 7531095 con 1690 unidades; costo de reposición 4874.21."
+ },
+ {
+  "plato": "P09",
+  "decision": "mantener",
+  "precio_nuevo": 8200.0,
+  "fundamento": "Margen de reposición 0.685 >= 0.6. Contribución histórica ago-oct 6225391 con 1173 unidades; costo de reposición 2582.33."
+ },
+ {
+  "plato": "P10",
+  "decision": "subir",
+  "precio_nuevo": 11900.0,
+  "fundamento": "Margen de reposición 0.591 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.602). Contribución histórica ago-oct 14516289 con 2006 unidades; costo de reposición 4742.14."
+ },
+ {
+  "plato": "P11",
+  "decision": "mantener",
+  "precio_nuevo": 14900.0,
+  "fundamento": "Margen de reposición 0.620 >= 0.6. Contribución histórica ago-oct 13860271 con 1497 unidades; costo de reposición 5666.78. Protegido: plato de la casa."
+ },
+ {
+  "plato": "P12",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 1682313 con 343 unidades; costo de reposición 3566.19. Margen de reposición a precio actual 0.554."
+ },
+ {
+  "plato": "P13",
+  "decision": "subir",
+  "precio_nuevo": 14600.0,
+  "fundamento": "Margen de reposición 0.477 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.603). Contribución histórica ago-oct 7082763 con 1095 unidades; costo de reposición 5800.86."
+ },
+ {
+  "plato": "P14",
+  "decision": "mantener",
+  "precio_nuevo": 11100.0,
+  "fundamento": "Margen de reposición 0.684 >= 0.6. Contribución histórica ago-oct 5322073 con 688 unidades; costo de reposición 3506.91."
+ },
+ {
+  "plato": "P15",
+  "decision": "subir",
+  "precio_nuevo": 6800.0,
+  "fundamento": "Margen de reposición 0.595 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.601). Contribución histórica ago-oct 6270426 con 1475 unidades; costo de reposición 2714.56."
+ },
+ {
+  "plato": "P16",
+  "decision": "mantener",
+  "precio_nuevo": 10800.0,
+  "fundamento": "Margen de reposición 0.625 >= 0.6. Contribución histórica ago-oct 6675197 con 987 unidades; costo de reposición 4051.78."
+ },
+ {
+  "plato": "P17",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 3583665 con 571 unidades; costo de reposición 4882.27. Margen de reposición a precio actual 0.556."
+ },
+ {
+  "plato": "P18",
+  "decision": "subir",
+  "precio_nuevo": 6800.0,
+  "fundamento": "Margen de reposición 0.484 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.606). Contribución histórica ago-oct 4195757 con 1423 unidades; costo de reposición 2680.81."
+ },
+ {
+  "plato": "P19",
+  "decision": "mantener",
+  "precio_nuevo": 12800.0,
+  "fundamento": "Margen de reposición 0.686 >= 0.6. Contribución histórica ago-oct 14241698 con 1693 unidades; costo de reposición 4018.99."
+ },
+ {
+  "plato": "P20",
+  "decision": "subir",
+  "precio_nuevo": 7800.0,
+  "fundamento": "Margen de reposición 0.599 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.604). Contribución histórica ago-oct 5297236 con 1153 unidades; costo de reposición 3085.52."
+ },
+ {
+  "plato": "P21",
+  "decision": "mantener",
+  "precio_nuevo": 11700.0,
+  "fundamento": "Margen de reposición 0.620 >= 0.6. Contribución histórica ago-oct 16029913 con 2116 unidades; costo de reposición 4448.92."
+ },
+ {
+  "plato": "P22",
+  "decision": "subir",
+  "precio_nuevo": 10400.0,
+  "fundamento": "Margen de reposición 0.552 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.603). Contribución histórica ago-oct 7657499 con 1547 unidades; costo de reposición 4124.41."
+ },
+ {
+  "plato": "P23",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 1492030 con 351 unidades; costo de reposición 4309.83. Margen de reposición a precio actual 0.474."
+ },
+ {
+  "plato": "P24",
+  "decision": "mantener",
+  "precio_nuevo": 13800.0,
+  "fundamento": "Margen de reposición 0.684 >= 0.6. Contribución histórica ago-oct 17796759 con 1920 unidades; costo de reposición 4356.35."
+ },
+ {
+  "plato": "P25",
+  "decision": "subir",
+  "precio_nuevo": 19800.0,
+  "fundamento": "Margen de reposición 0.581 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.602). Contribución histórica ago-oct 16539441 con 1426 unidades; costo de reposición 7883.21. Protegido: plato de la casa."
+ },
+ {
+  "plato": "P26",
+  "decision": "mantener",
+  "precio_nuevo": 7100.0,
+  "fundamento": "Margen de reposición 0.637 >= 0.6. Contribución histórica ago-oct 7242002 con 1523 unidades; costo de reposición 2579.41."
+ },
+ {
+  "plato": "P27",
+  "decision": "subir",
+  "precio_nuevo": 7200.0,
+  "fundamento": "Margen de reposición 0.572 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.602). Contribución histórica ago-oct 7141606 con 1828 unidades; costo de reposición 2868.07."
+ },
+ {
+  "plato": "P28",
+  "decision": "subir",
+  "precio_nuevo": 8100.0,
+  "fundamento": "Margen de reposición 0.478 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.600). Contribución histórica ago-oct 4101120 con 1375 unidades; costo de reposición 3236.23."
+ },
+ {
+  "plato": "P29",
+  "decision": "mantener",
+  "precio_nuevo": 12000.0,
+  "fundamento": "Margen de reposición 0.676 >= 0.6. Contribución histórica ago-oct 16807299 con 2104 unidades; costo de reposición 3887.95."
+ },
+ {
+  "plato": "P30",
+  "decision": "subir",
+  "precio_nuevo": 11500.0,
+  "fundamento": "Margen de reposición 0.600 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.603). Contribución histórica ago-oct 11714086 con 1690 unidades; costo de reposición 4562.88."
+ },
+ {
+  "plato": "P31",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 2532815 con 497 unidades; costo de reposición 2849.75. Margen de reposición a precio actual 0.630."
+ },
+ {
+  "plato": "P32",
+  "decision": "subir",
+  "precio_nuevo": 15300.0,
+  "fundamento": "Margen de reposición 0.550 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.600). Contribución histórica ago-oct 11741591 con 1375 unidades; costo de reposición 6114.76."
+ },
+ {
+  "plato": "P33",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 3469160 con 832 unidades; costo de reposición 4425.70. Margen de reposición a precio actual 0.467."
+ },
+ {
+  "plato": "P34",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 2845244 con 366 unidades; costo de reposición 3480.71. Margen de reposición a precio actual 0.689."
+ },
+ {
+  "plato": "P35",
+  "decision": "subir",
+  "precio_nuevo": 16500.0,
+  "fundamento": "Margen de reposición 0.589 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.601). Contribución histórica ago-oct 12196162 con 1175 unidades; costo de reposición 6578.51."
+ },
+ {
+  "plato": "P36",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 3560374 con 649 unidades; costo de reposición 3086.87. Margen de reposición a precio actual 0.633."
+ },
+ {
+  "plato": "P37",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 1646239 con 331 unidades; costo de reposición 3601.85. Margen de reposición a precio actual 0.555."
+ },
+ {
+  "plato": "P38",
+  "decision": "subir",
+  "precio_nuevo": 8900.0,
+  "fundamento": "Margen de reposición 0.480 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.602). Contribución histórica ago-oct 4011159 con 1057 unidades; costo de reposición 3538.56."
+ },
+ {
+  "plato": "P39",
+  "decision": "mantener",
+  "precio_nuevo": 12300.0,
+  "fundamento": "Margen de reposición 0.680 >= 0.6. Contribución histórica ago-oct 5031963 con 610 unidades; costo de reposición 3942.00."
+ },
+ {
+  "plato": "P40",
+  "decision": "subir",
+  "precio_nuevo": 12900.0,
+  "fundamento": "Margen de reposición 0.587 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.600). Contribución histórica ago-oct 11660058 con 1439 unidades; costo de reposición 5159.23."
+ },
+ {
+  "plato": "P41",
+  "decision": "mantener",
+  "precio_nuevo": 9700.0,
+  "fundamento": "Margen de reposición 0.634 >= 0.6. Contribución histórica ago-oct 5999195 con 942 unidades; costo de reposición 3549.65."
+ },
+ {
+  "plato": "P42",
+  "decision": "subir",
+  "precio_nuevo": 6800.0,
+  "fundamento": "Margen de reposición 0.489 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.602). Contribución histórica ago-oct 4156890 con 1385 unidades; costo de reposición 2707.62."
+ },
+ {
+  "plato": "P43",
+  "decision": "subir",
+  "precio_nuevo": 7100.0,
+  "fundamento": "Margen de reposición 0.496 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.602). Contribución histórica ago-oct 4219625 con 1299 unidades; costo de reposición 2824.59."
+ },
+ {
+  "plato": "P44",
+  "decision": "mantener",
+  "precio_nuevo": 12800.0,
+  "fundamento": "Margen de reposición 0.682 >= 0.6. Contribución histórica ago-oct 6683903 con 786 unidades; costo de reposición 4067.95."
+ },
+ {
+  "plato": "P45",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 1778068 con 336 unidades; costo de reposición 3366.01. Margen de reposición a precio actual 0.599."
+ },
+ {
+  "plato": "P46",
+  "decision": "mantener",
+  "precio_nuevo": 17600.0,
+  "fundamento": "Margen de reposición 0.615 >= 0.6. Contribución histórica ago-oct 13938336 con 1175 unidades; costo de reposición 6769.99."
+ },
+ {
+  "plato": "P47",
+  "decision": "sacar",
+  "precio_nuevo": null,
+  "fundamento": "Entre las 10 contribuciones históricas más bajas de los platos no protegidos. Contribución histórica ago-oct 1559183 con 362 unidades; costo de reposición 4352.93. Margen de reposición a precio actual 0.476."
+ },
+ {
+  "plato": "P48",
+  "decision": "subir",
+  "precio_nuevo": 2100.0,
+  "fundamento": "Margen de reposición 0.554 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.618). Contribución histórica ago-oct 1533018 con 1518 unidades; costo de reposición 802.30. Protegido: vegetariano."
+ },
+ {
+  "plato": "P49",
+  "decision": "mantener",
+  "precio_nuevo": 7200.0,
+  "fundamento": "Margen de reposición 0.638 >= 0.6. Contribución histórica ago-oct 7131248 con 1479 unidades; costo de reposición 2605.20."
+ },
+ {
+  "plato": "P50",
+  "decision": "subir",
+  "precio_nuevo": 11700.0,
+  "fundamento": "Margen de reposición 0.589 < 0.6; precio mínimo para 0.6 redondeado hacia arriba a $100 (margen 0.603). Contribución histórica ago-oct 3726933 con 558 unidades; costo de reposición 4644.24. Protegido: sin TACC."
+ }
+]
