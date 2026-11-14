@@ -1,0 +1,18 @@
+Almacén del Molino Azul
+Marca: Molino Quieto
+Factura F-003
+Fecha: 2026-08-01
+Cliente: El Término Medio
+Moneda: pesos. Importes finales.
+Renglón | Producto | Cantidad | Presentación | Precio | Bonif. | Neto
+1 | A01 Harina | 6,00 | bolsa | 25380,00 | 8,00 % | 140097,60
+2 | A02 Arroz | 3,00 | kg | 2044,80 | 0,00 % | 6134,40
+3 | A03 Lenteja | 4000,00 | g | 2,86 | 8,00 % | 10524,80
+4 | A04 Fideo seco | 3,00 | bolsa | 2534,40 | 0,00 % | 7603,20
+5 | A05 Aceite | 2,00 | l | 3248,00 | 0,00 % | 6496,00
+6 | A06 Pan de campo | 3000,00 | g | 2,80 | 8,00 % | 7728,00
+7 | A07 Tomate triturado | 5,00 | unidad | 2122,68 | 8,00 % | 9764,33
+8 | A08 Pan rallado | 5,00 | kg | 2012,80 | 8,00 % | 9258,88
+TOTAL: $ 197607,21
+Bonificación de 8 % sobre toda línea de 4 o más presentaciones; para g/ml el umbral es 2000.
+Documento de operación ficticia.

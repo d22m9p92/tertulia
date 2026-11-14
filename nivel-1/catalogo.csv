@@ -1,0 +1,95 @@
+producto,nombre,proveedor,marca,presentacion,cantidad_base,unidad_base
+H01,Papa,Huerta del Andén,Andariego,cajón,18000,g
+H01,Papa,Huerta del Andén,Andariego,bolsa,5000,g
+H01,Papa,Huerta del Andén,Andariego,kg,1000,g
+H01,Papa,Huerta del Andén,Andariego,g,1,g
+H02,Cebolla,Huerta del Andén,Andariego,bolsa,10000,g
+H02,Cebolla,Huerta del Andén,Andariego,kg,1000,g
+H02,Cebolla,Huerta del Andén,Andariego,g,1,g
+H03,Tomate,Huerta del Andén,Andariego,cajón,12000,g
+H03,Tomate,Huerta del Andén,Andariego,kg,1000,g
+H03,Tomate,Huerta del Andén,Andariego,g,1,g
+H04,Zanahoria,Huerta del Andén,Andariego,bolsa,6000,g
+H04,Zanahoria,Huerta del Andén,Andariego,kg,1000,g
+H04,Zanahoria,Huerta del Andén,Andariego,g,1,g
+H05,Zapallo,Huerta del Andén,Andariego,cajón,16000,g
+H05,Zapallo,Huerta del Andén,Andariego,kg,1000,g
+H05,Zapallo,Huerta del Andén,Andariego,g,1,g
+H06,Espinaca,Huerta del Andén,Andariego,atado,400,g
+H06,Espinaca,Huerta del Andén,Andariego,kg,1000,g
+H06,Espinaca,Huerta del Andén,Andariego,g,1,g
+H07,Perejil,Huerta del Andén,Andariego,atado,120,g
+H07,Perejil,Huerta del Andén,Andariego,kg,1000,g
+H07,Perejil,Huerta del Andén,Andariego,g,1,g
+H08,Limón,Huerta del Andén,Andariego,cajón,14000,g
+H08,Limón,Huerta del Andén,Andariego,kg,1000,g
+H08,Limón,Huerta del Andén,Andariego,g,1,g
+C01,Pollo,Frigorífico del Muelle,Bajamar,bolsa,5000,g
+C01,Pollo,Frigorífico del Muelle,Bajamar,kg,1000,g
+C01,Pollo,Frigorífico del Muelle,Bajamar,g,1,g
+C02,Carne para brasear,Frigorífico del Muelle,Bajamar,kg,1000,g
+C02,Carne para brasear,Frigorífico del Muelle,Bajamar,g,1,g
+C03,Bondiola,Frigorífico del Muelle,Bajamar,kg,1000,g
+C03,Bondiola,Frigorífico del Muelle,Bajamar,g,1,g
+C04,Merluza,Frigorífico del Muelle,Bajamar,bolsa,3000,g
+C04,Merluza,Frigorífico del Muelle,Bajamar,kg,1000,g
+C04,Merluza,Frigorífico del Muelle,Bajamar,g,1,g
+C05,Panceta,Frigorífico del Muelle,Bajamar,kg,1000,g
+C05,Panceta,Frigorífico del Muelle,Bajamar,g,1,g
+C06,Chorizo,Frigorífico del Muelle,Bajamar,docena,1440,g
+C06,Chorizo,Frigorífico del Muelle,Bajamar,unidad,120,g
+C06,Chorizo,Frigorífico del Muelle,Bajamar,kg,1000,g
+C06,Chorizo,Frigorífico del Muelle,Bajamar,g,1,g
+C07,Atún en conserva,Frigorífico del Muelle,Bajamar,unidad,300,g
+C07,Atún en conserva,Frigorífico del Muelle,Bajamar,kg,1000,g
+C07,Atún en conserva,Frigorífico del Muelle,Bajamar,g,1,g
+C08,Jamón cocido,Frigorífico del Muelle,Bajamar,kg,1000,g
+C08,Jamón cocido,Frigorífico del Muelle,Bajamar,g,1,g
+A01,Harina,Almacén del Molino Azul,Molino Quieto,bolsa,25000,g
+A01,Harina,Almacén del Molino Azul,Molino Quieto,kg,1000,g
+A01,Harina,Almacén del Molino Azul,Molino Quieto,g,1,g
+A02,Arroz,Almacén del Molino Azul,Molino Quieto,bolsa,5000,g
+A02,Arroz,Almacén del Molino Azul,Molino Quieto,kg,1000,g
+A02,Arroz,Almacén del Molino Azul,Molino Quieto,g,1,g
+A03,Lenteja,Almacén del Molino Azul,Molino Quieto,bolsa,5000,g
+A03,Lenteja,Almacén del Molino Azul,Molino Quieto,kg,1000,g
+A03,Lenteja,Almacén del Molino Azul,Molino Quieto,g,1,g
+A04,Fideo seco,Almacén del Molino Azul,Molino Quieto,bolsa,1000,g
+A04,Fideo seco,Almacén del Molino Azul,Molino Quieto,kg,1000,g
+A04,Fideo seco,Almacén del Molino Azul,Molino Quieto,g,1,g
+A05,Aceite,Almacén del Molino Azul,Molino Quieto,unidad,1500,ml
+A05,Aceite,Almacén del Molino Azul,Molino Quieto,l,1000,ml
+A05,Aceite,Almacén del Molino Azul,Molino Quieto,ml,1,ml
+A06,Pan de campo,Almacén del Molino Azul,Molino Quieto,unidad,500,g
+A06,Pan de campo,Almacén del Molino Azul,Molino Quieto,kg,1000,g
+A06,Pan de campo,Almacén del Molino Azul,Molino Quieto,g,1,g
+A07,Tomate triturado,Almacén del Molino Azul,Molino Quieto,unidad,950,g
+A07,Tomate triturado,Almacén del Molino Azul,Molino Quieto,kg,1000,g
+A07,Tomate triturado,Almacén del Molino Azul,Molino Quieto,g,1,g
+A08,Pan rallado,Almacén del Molino Azul,Molino Quieto,bolsa,3000,g
+A08,Pan rallado,Almacén del Molino Azul,Molino Quieto,kg,1000,g
+A08,Pan rallado,Almacén del Molino Azul,Molino Quieto,g,1,g
+L01,Queso cremoso,Granja La Ochava,Ochavita,unidad,4000,g
+L01,Queso cremoso,Granja La Ochava,Ochavita,kg,1000,g
+L01,Queso cremoso,Granja La Ochava,Ochavita,g,1,g
+L02,Crema,Granja La Ochava,Ochavita,unidad,1000,ml
+L02,Crema,Granja La Ochava,Ochavita,l,1000,ml
+L02,Crema,Granja La Ochava,Ochavita,ml,1,ml
+L03,Leche,Granja La Ochava,Ochavita,unidad,1000,ml
+L03,Leche,Granja La Ochava,Ochavita,l,1000,ml
+L03,Leche,Granja La Ochava,Ochavita,ml,1,ml
+L04,Manteca,Granja La Ochava,Ochavita,unidad,200,g
+L04,Manteca,Granja La Ochava,Ochavita,kg,1000,g
+L04,Manteca,Granja La Ochava,Ochavita,g,1,g
+L05,Huevo,Granja La Ochava,Ochavita,maple,30,unidad
+L05,Huevo,Granja La Ochava,Ochavita,docena,12,unidad
+L05,Huevo,Granja La Ochava,Ochavita,unidad,1,unidad
+L06,Yogur natural,Granja La Ochava,Ochavita,unidad,1000,g
+L06,Yogur natural,Granja La Ochava,Ochavita,kg,1000,g
+L06,Yogur natural,Granja La Ochava,Ochavita,g,1,g
+L07,Queso rallado,Granja La Ochava,Ochavita,bolsa,1000,g
+L07,Queso rallado,Granja La Ochava,Ochavita,kg,1000,g
+L07,Queso rallado,Granja La Ochava,Ochavita,g,1,g
+L08,Ricota,Granja La Ochava,Ochavita,unidad,1000,g
+L08,Ricota,Granja La Ochava,Ochavita,kg,1000,g
+L08,Ricota,Granja La Ochava,Ochavita,g,1,g

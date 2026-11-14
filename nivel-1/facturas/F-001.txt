@@ -1,0 +1,18 @@
+Huerta del Andén
+Marca: Andariego
+Factura F-001
+Fecha: 2026-08-01
+Cliente: El Término Medio
+Moneda: pesos. Importes finales.
+Renglón | Producto | Cantidad | Presentación | Precio | Bonif. | Neto
+1 | H01 Papa | 5,00 | bolsa | 6000,00 | 8,00 % | 27600,00
+2 | H02 Cebolla | 3000,00 | g | 1,01 | 8,00 % | 2787,60
+3 | H03 Tomate | 3,00 | cajón | 25603,20 | 0,00 % | 76809,60
+4 | H04 Zanahoria | 4,00 | kg | 1331,20 | 8,00 % | 4898,82
+5 | H05 Zapallo | 4000,00 | g | 1,14 | 8,00 % | 4195,20
+6 | H06 Espinaca | 5,00 | atado | 1331,20 | 8,00 % | 6123,52
+7 | H07 Perejil | 3,00 | kg | 5240,00 | 0,00 % | 15720,00
+8 | H08 Limón | 3000,00 | g | 1,90 | 8,00 % | 5244,00
+TOTAL: $ 143378,74
+Bonificación de 8 % sobre toda línea de 4 o más presentaciones; para g/ml el umbral es 2000.
+Documento de operación ficticia.

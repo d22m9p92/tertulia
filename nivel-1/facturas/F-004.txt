@@ -1,0 +1,18 @@
+Granja La Ochava
+Marca: Ochavita
+Factura F-004
+Fecha: 2026-08-01
+Cliente: El Término Medio
+Moneda: pesos. Importes finales.
+Renglón | Producto | Cantidad | Presentación | Precio | Bonif. | Neto
+1 | L01 Queso cremoso | 5,00 | kg | 8105,60 | 8,00 % | 37285,76
+2 | L02 Crema | 5000,00 | ml | 5,04 | 8,00 % | 23184,00
+3 | L03 Leche | 5,00 | unidad | 1570,40 | 8,00 % | 7223,84
+4 | L04 Manteca | 5,00 | kg | 7782,40 | 8,00 % | 35799,04
+5 | L05 Huevo | 90,00 | unidad | 220,32 | 8,00 % | 18242,50
+6 | L06 Yogur natural | 4,00 | unidad | 2956,80 | 8,00 % | 10881,02
+7 | L07 Queso rallado | 5,00 | kg | 12400,00 | 8,00 % | 57040,00
+8 | L08 Ricota | 4000,00 | g | 5,74 | 8,00 % | 21123,20
+TOTAL: $ 210779,36
+Bonificación de 8 % sobre toda línea de 4 o más presentaciones; para g/ml el umbral es 2000.
+Documento de operación ficticia.

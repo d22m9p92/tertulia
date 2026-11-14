@@ -1,0 +1,148 @@
+[
+  {
+    "codigo": "P01",
+    "nombre": "Pollo al limón con papas",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "C01",
+        "cantidad": 160.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H01",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H08",
+        "cantidad": 25.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 12.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A08",
+        "cantidad": 12.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P02",
+    "nombre": "Ñoquis con tomate y jamón",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "H01",
+        "cantidad": 180.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "A01",
+        "cantidad": 70.0,
+        "unidad": "g",
+        "estado": "bruto"
+      },
+      {
+        "producto": "L05",
+        "cantidad": 0.25,
+        "unidad": "unidad",
+        "estado": "bruto"
+      },
+      {
+        "producto": "S01",
+        "cantidad": 110.0,
+        "unidad": "g",
+        "estado": "preparado"
+      },
+      {
+        "producto": "C08",
+        "cantidad": 30.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "P03",
+    "nombre": "Tortilla de papa y panceta",
+    "rendimiento": 1.0,
+    "unidad_rendimiento": "porción",
+    "ingredientes": [
+      {
+        "producto": "H01",
+        "cantidad": 220.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 50.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "L05",
+        "cantidad": 2.0,
+        "unidad": "unidad",
+        "estado": "bruto"
+      },
+      {
+        "producto": "C05",
+        "cantidad": 30.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 15.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      },
+      {
+        "producto": "A08",
+        "cantidad": 10.0,
+        "unidad": "g",
+        "estado": "bruto"
+      }
+    ]
+  },
+  {
+    "codigo": "S01",
+    "nombre": "Salsa de tomate",
+    "rendimiento": 1000.0,
+    "unidad_rendimiento": "g",
+    "ingredientes": [
+      {
+        "producto": "H03",
+        "cantidad": 600.0,
+        "unidad": "g",
+        "estado": "cocido"
+      },
+      {
+        "producto": "H02",
+        "cantidad": 200.0,
+        "unidad": "g",
+        "estado": "limpio"
+      },
+      {
+        "producto": "A05",
+        "cantidad": 40.0,
+        "unidad": "ml",
+        "estado": "bruto"
+      }
+    ]
+  }
+]

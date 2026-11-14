@@ -1,0 +1,18 @@
+Frigorífico del Muelle
+Marca: Bajamar
+Factura F-002
+Fecha: 2026-08-01
+Cliente: El Término Medio
+Moneda: pesos. Importes finales.
+Renglón | Producto | Cantidad | Presentación | Precio | Bonif. | Neto
+1 | C01 Pollo | 2000,00 | g | 5,53 | 8,00 % | 10175,20
+2 | C02 Carne para brasear | 6000,00 | g | 10,18 | 8,00 % | 56193,60
+3 | C03 Bondiola | 6,00 | kg | 7992,00 | 8,00 % | 44115,84
+4 | C04 Merluza | 2000,00 | g | 8,81 | 8,00 % | 16210,40
+5 | C05 Panceta | 2,00 | kg | 9644,80 | 0,00 % | 19289,60
+6 | C06 Chorizo | 3000,00 | g | 6,62 | 8,00 % | 18271,20
+7 | C07 Atún en conserva | 4000,00 | g | 7,78 | 8,00 % | 28630,40
+8 | C08 Jamón cocido | 2000,00 | g | 10,30 | 8,00 % | 18952,00
+TOTAL: $ 211838,24
+Bonificación de 8 % sobre toda línea de 4 o más presentaciones; para g/ml el umbral es 2000.
+Documento de operación ficticia.
