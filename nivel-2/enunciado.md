@@ -1,0 +1,7 @@
+Reciben el recetario de la carta completa, el catálogo, los rendimientos, los procedimientos, cuarenta facturas digitales y sus documentos asociados. Este lote reemplaza el conjunto de compras de la entrega anterior para el cálculo solicitado.
+
+Calculen el costo de ingredientes por porción al 31/10/2026 usando la última factura anterior o igual a esa fecha para cada producto. El precio efectivo es el importe neto dividido por la cantidad equivalente, después de aplicar los documentos asociados emitidos hasta la fecha de costeo. Un documento asociado ajusta su factura y renglón de origen; no constituye una nueva compra. Para empates de fecha prevalece el identificador de factura alfanuméricamente mayor. Mantengan las demás convenciones del cálculo anterior.
+
+Suban `nivel-2/costos.csv` con el encabezado exacto `plato,costo_por_porcion` y una fila por cada uno de los cincuenta platos, con sus códigos. Usen UTF-8, coma como separador, punto decimal y dos decimales monetarios, sin separador de miles. No incluyan subrecetas como filas finales.
+
+Suban también el código que usaron en `nivel-2/codigo/`, y `nivel-2/codigo/README.md` con una explicación de sus entradas y de cómo reproduce el cálculo. El juez solo lee esos archivos; no los ejecuta. Incluyan fuentes de Python, JavaScript, TypeScript, SQL, R o notebooks, según corresponda; no incluyan entornos virtuales ni dependencias descargadas. Para aprobar hacen falta el código y al menos 45 de los 50 costos dentro del 2 %.
